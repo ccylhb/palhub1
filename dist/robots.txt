@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://palhub1.pages.dev/sitemap.xml
+Sitemap: https://palhub.lootseer.com/sitemap.xml

@@ -1,2 +1,5 @@
 .wrangler/
 dist_backup_*/
+_bak_tmp*/
+dist.bak/
+_push.log
